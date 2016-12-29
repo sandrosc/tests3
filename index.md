@@ -81,7 +81,7 @@ Prüfungsbedingungen
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/Vorlesungsunterlagen/0-Moduleinfuehrung.pdf)
 
-## Objektorientertes Programmieren (Di 24. Januar)
+## Objektorientertes Programmieren (Di 24. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/)
 
 - Schriftliche Prüfung während der Prüfungssession, 180 Minuten
 - Zulassungsbedingungen: Testat (siehe oben)
@@ -91,7 +91,7 @@ Prüfungsbedingungen
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/Allgemeine_Informationen_OO.pdf)
 
-## Diskrete Mathematik (Fr. 27. Januar)
+## Diskrete Mathematik (Fr. 27. Januar) [(Skripte)](https://skripte.hsr.ch/Mathematik_Naturwissenschaften/Diskrete_Mathematik_fuer_Informatik_/DMI/)
 
 Inhalt
 
