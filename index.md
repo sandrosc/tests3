@@ -1,5 +1,3 @@
-# Tests
-
 ## Analysis (Di. 17. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=406)
 
 ### Prüfungsstoff
@@ -62,8 +60,36 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 > https://moodle.hsr.ch/pluginfile.php/44765/mod_resource/content/6/PruefungsInfo_Bsys1_HS16.pdf
 
 ## Computernetze (Sa. 21. Januar)
+
+- Achtung: cn1 ist ein «b-Modul»
+ - muss bestanden werden
+ - Beachte: Sie haben nur 2 Versuche!
+- Zulassungsbedingung
+ - 6 der 7 Praktika (Versuche) erfolgreich bearbeitet
+- Inhalt
+ - Theorie, Übungen, Praktikum, Selbststudium
+ - W=Wissensfragen, V=Verständnisfragen, U=Umsetzungsfragen, Evtl. einige Aufgaben direkt am Computer
+- Prüfungsdurchführung
+ - 1.5h Teil 1, 30min Pause, 1.5h Teil 2
+ - Ohne Unterlagen, ohne elektronische Hilfsmittel (Taschenrechner, Smartphone, …)
+ - Termin Mitte Januar
+- Empfehlung: Die aktuellste Beispielprüfung bereits während dem Semester parallel zur Vorlesung lösen
+
+> https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/Vorlesungsunterlagen/0-Moduleinfuehrung.pdf
+
 ## Objektorientertes Programmieren (Di 24. Januar)
+
+- Schriftliche Prüfung während der Prüfungssession, 180 Minuten
+- Zulassungsbedingungen: Testat (siehe oben)
+- Erlaubte Hilfsmittel während der Prüfung
+ - Ein A4 Blatt (doppelseitig beschrieben oder bedruckt)
+
+> https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/Allgemeine_Informationen_OO.pdf
+
 ## Diskrete Mathematik (Fr. 27. Januar)
+
+
+
 ## Informations- und Codierungstheorie (Di. 31. Januar)
 ## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
 
