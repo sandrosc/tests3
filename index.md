@@ -31,31 +31,31 @@ Prüfungsinhalte
 Inhaltsübersicht anhand Lehrbuch E. Glatz, Betriebssysteme, 3. Auflage
 
 - Einführung
- - _Kap. 1.1 - 1.4: S. 1 - 9_
+  - _Kap. 1.1 - 1.4: S. 1 - 9_
 - Grundlagen der Programmausführung:
- - _Kap. 2: S. 25 - 69_
+  - _Kap. 2: S. 25 - 69_
 - Systemprogrammierung:
- - _Kap. 3: S. 71-72, 79-104 (ohne Kap. 3.1)_
+  - _Kap. 3: S. 71-72, 79-104 (ohne Kap. 3.1)_
 - Prozesse und Threads, CPU Scheduling
- - _Kap. 4.1, 4.2.1-4.2.6, S. 105-128_
- - _Kap. 4.3 (ohne Windows Fibers), S. 135-146, 148-151_
- - _Kap. 4.4.1 - 4.4.4 (ohne RM- & EDF-Strategie), S. 151-166, 168-170_
+  - _Kap. 4.1, 4.2.1-4.2.6, S. 105-128_
+  - _Kap. 4.3 (ohne Windows Fibers), S. 135-146, 148-151_
+  - _Kap. 4.4.1 - 4.4.4 (ohne RM- & EDF-Strategie), S. 151-166, 168-170_
 - Synchronisation von Prozessen & Threads
- - _Kap. 5.1 - 5.3 (ohne POSIX-Rwlock) , S. 189 - 216_
- - _Kap. 5.4 (nur POSIX Mutex und Windows Mutex/Semaphore/Crit. Sect. Object) , S. 216 - 226_
- - _Kap. 5.5, S. 226 - 235_
- - _Kap. 5.6: S. 235 - 247_
+  - _Kap. 5.1 - 5.3 (ohne POSIX-Rwlock) , S. 189 - 216_
+  - _Kap. 5.4 (nur POSIX Mutex und Windows Mutex/Semaphore/Crit. Sect. Object) , S. 216 - 226_
+  - _Kap. 5.5, S. 226 - 235_
+  - _Kap. 5.6: S. 235 - 247_
 - Kommunikation von Prozessen & Threads
- - _Kap. 6.1 – 6.2.2: S. 251 - 267_
+  - _Kap. 6.1 – 6.2.2: S. 251 - 267_
 
 Prüfungsbedingungen
 
 - Prüfungsdauer: 120 Min
 - Erlaubte Hilfsmittel:
- - Lehrbuch „Betriebssysteme“ von E. Glatz (dpunkt.verlag 2015/2010/2006), alternativ Ausdrucke (Printouts) des E-Books
- - Printout der Datei „Uebersicht_Systemaufrufe.pdf“
- - Büchlein „C kurz & gut“ von P. Prinz & U. Prinz-Kirch, O‘Reilly, 2002
- - Taschenrechner
+  - Lehrbuch „Betriebssysteme“ von E. Glatz (dpunkt.verlag 2015/2010/2006), alternativ Ausdrucke (Printouts) des E-Books
+  - Printout der Datei „Uebersicht_Systemaufrufe.pdf“
+  - Büchlein „C kurz & gut“ von P. Prinz & U. Prinz-Kirch, O‘Reilly, 2002
+  - Taschenrechner
 - NB: Bücher dürfen Handnotizen enthalten
 - Nicht erlaubt sind Zusammenfassungen, Übungsblätter und Lösungen, alte Prüfungen sowie kommunikationsfähige Geräte jeglicher Art.
 - Es können während der Prüfung keine Fragen an die Prüfungsaufsicht gestellt werden. Nötigenfalls sind sinnvolle Annahmen zu treffen und zu begründen.
