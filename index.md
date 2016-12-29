@@ -66,3 +66,17 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 ## Diskrete Mathematik (Fr. 27. Januar)
 ## Informations- und Codierungstheorie (Di. 31. Januar)
 ## Datenbanksysteme (Do. 2. Februar)
+
+### Prüfungsbedingungen
+
+- Abgesetzte Schriftliche Prüfung à 120 min.
+- Prüfungs-Unterlagen:
+ - Ein A4-Blatt Zusammenfassung, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
+- Prüfungsstoff-Umfang und -Stil:
+ - Gesamter Vorlesungsinhalt inklusive Übungen
+ - Konzeptverständnis
+ - SQL
+ - Programmieraufgaben JDBC (Java)
+- Prüfungsvorbereitung: Moodle beachten!
+
+> https://skripte.hsr.ch/Informatik/Fachbereich/Datenbanksysteme_1/Dbs1/Vorlesung/00_Organisatorisches/Dbs1_Organisation.pdf
