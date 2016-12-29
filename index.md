@@ -17,7 +17,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 - Das Papier und das Schreibwerkzeug für die Lösungen ist selber mitzubringen. Es darf mit einem beliebigen Schreibwerkzeug geschrieben werden mit Ausnahme von Rotstifft (Korrekturfarbe).
 - Bringen Sie Ihre Legi-Karte mit und legen Sie diese auf das Pult. Im Übrigen dürfen auf dem Pult neben den Aufgaben- und Lösungsblättern nur die Schreibutensilien und eine Uhr liegen.
 
-_https://moodle.hsr.ch/mod/page/view.php?id=11893_
+_(https://moodle.hsr.ch/mod/page/view.php?id=11893)_
 
 ## Betriebssysteme (Do. 19. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=690)
 
@@ -59,7 +59,7 @@ _https://moodle.hsr.ch/mod/page/view.php?id=11893_
 - Es können während der Prüfung keine Fragen an die Prüfungsaufsicht gestellt werden. Nötigenfalls sind sinnvolle Annahmen zu treffen und zu begründen.
 - Alle Lösungen sind auf die abgegebenen Aufgabenblätter zu schreiben, da Zusatzblätter zur Bewertung nicht entgegengenommen werden. Zusatzblätter können jedoch während der Prüfung zur Notierung von Zwischenresultaten benutzt werden. 
 
-_https://moodle.hsr.ch/pluginfile.php/44765/mod_resource/content/6/PruefungsInfo_Bsys1_HS16.pdf_
+_(https://moodle.hsr.ch/pluginfile.php/44765/mod_resource/content/6/PruefungsInfo_Bsys1_HS16.pdf)_
 
 ## Computernetze (Sa. 21. Januar)
 ## Objektorientertes Programmieren (Di 24. Januar)
