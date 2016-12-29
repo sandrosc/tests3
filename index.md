@@ -83,12 +83,42 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 - Zulassungsbedingungen: Testat (siehe oben)
 - Erlaubte Hilfsmittel während der Prüfung
  - Ein A4 Blatt (doppelseitig beschrieben oder bedruckt)
+- Kein Quicksort, GC, Reflection
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/Allgemeine_Informationen_OO.pdf)
 
 ## Diskrete Mathematik (Fr. 27. Januar)
 
+Inhalt
 
+- Grundlagen
+ - Logikaufgabe mit anwenden der Rechenregeln
+ - Mengenlehre
+ - Vollständige Induktion
+- Modulo-Rechnen
+ - RSA (vereinfacht, da sonst zu schwierig => man muss wissen wie es funktioniert)
+ - Alles berechnen können
+- Lineare Algebra
+ - Lineares Gleichungssystem
+ - Normalenform
+ - Abbildungen
+ - Inverse und Determinante
+
+Ramenbedingungen:
+
+- 2h
+- c.a. 15 minuten pro Aufgabe an je 15 Punkten => 1 Punkt pro Minute
+- 120 Punkte für eine 6.0
+- 9 Aufgaben => Max. Punktzahl ist 135 => eine Aufgabe muss nicht gelöst werden für eine 6.0
+- 66 Punkte für eine 4
+
+Hilfsmittel:
+
+- Skript mit Notizen
+- Keine eigene Formelsammlung
+- Man bekommt eine Formelsammlung (Server Theoriekapitel)
+- Buch
+- KEIN TASCHENRECHNER
 
 ## Informations- und Codierungstheorie (Di. 31. Januar)
 
@@ -99,7 +129,18 @@ Steffen:
 - Alle Unterlagen ausser alte Tests
 - Teil mobilequiz-ähnlich, Teil unterrichtsbezogen
 
+Rinkel:
+
+- Ein Teil komplett ohne Unterlagen (Ankreuztest)
+- Ein Teil mit allen Unterlagen + Taschenrechner
+ - Formelsammlung
+ - Folien mit Ergänzungen
+
+src: Lektion
+
 ## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
+
+- Hilfsmittel: Ein A4-Blatt, doppelseitig bedruckt
 
 ### Prüfungsbedingungen
 
