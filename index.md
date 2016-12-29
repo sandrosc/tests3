@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Tests
 
-You can use the [editor on GitHub](https://github.com/Spreadyy/tests/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Analysis (Di. 17. Januar)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Prüfungsstoff
 
-### Markdown
+Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit einem Stern (*) gekennzeichneten Kapitel.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prüfungsablauf
 
-```markdown
-Syntax highlighted code block
+- Bitte warten Sie vor dem Prüfungsraum, bis Sie hereingebeten werden und setzen Sie sich an eines der Pulte, auf denen ein Aufgabenblatt bereit liegt.
+- Die Prüfung dauert 120 Minuten.
+- Wenn Sie mit Verspätung, aber noch vor Ende der Prüfung eintreffen, dürfen Sie die Prüfung ablegen. Die Prüfung endet aber für alle Studierenden zur gleichen Zeit.
+- Sie können die Prüfung nur bis max. 20 Minuten vor Prüfungsende vorzeitig abgeben. Falls Sie Ihre Prüfung in den letzten 20 Minuten der Prüfungszeit beenden, bleiben Sie bitte im Interesse Ihrer Kollegen bis zum Ende der Prüfung an Ihrem Platz sitzen und geben erst dann die Prüfung ab.
+- Die Prüfung ist __ohne Unterlagen__ und ohne elektronische Hilfsmittel zu lösen.
+- Das Mobiltelefon oder der PDA ist vor Beginn der Prüfung vollständig auszuschalten, um Störungen zu vermeiden, und darf sich nicht auf dem Pult befinden.
+- Das Papier und das Schreibwerkzeug für die Lösungen ist selber mitzubringen. Es darf mit einem beliebigen Schreibwerkzeug geschrieben werden mit Ausnahme von Rotstifft (Korrekturfarbe).
+- Bringen Sie Ihre Legi-Karte mit und legen Sie diese auf das Pult. Im Übrigen dürfen auf dem Pult neben den Aufgaben- und Lösungsblättern nur die Schreibutensilien und eine Uhr liegen.
 
-# Header 1
-## Header 2
-### Header 3
+_https://moodle.hsr.ch/mod/page/view.php?id=11893_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spreadyy/tests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Betriebssysteme (Do. 19. Januar)
+## Computernetze (Sa. 21. Januar)
+## Objektorientertes Programmieren (Di 24. Januar)
+## Diskrete Mathematik (Fr. 27. Januar)
+## Informations- und Codierungstheorie (Di. 31. Januar)
+## Datenbanksysteme (Do. 2. Februar)
