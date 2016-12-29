@@ -75,7 +75,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
  - Termin Mitte Januar
 - Empfehlung: Die aktuellste Beispielprüfung bereits während dem Semester parallel zur Vorlesung lösen
 
-> https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/Vorlesungsunterlagen/0-Moduleinfuehrung.pdf
+> src: https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/Vorlesungsunterlagen/0-Moduleinfuehrung.pdf
 
 ## Objektorientertes Programmieren (Di 24. Januar)
 
@@ -91,6 +91,14 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 
 
 ## Informations- und Codierungstheorie (Di. 31. Januar)
+
+Unterteilt in Steffen und Rinkel:
+
+Steffen:
+
+- Alle Unterlagen ausser alte Tests
+- Teil mobilequiz-ähnlich, Teil 
+
 ## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
 
 ### Prüfungsbedingungen
