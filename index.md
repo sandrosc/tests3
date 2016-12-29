@@ -69,14 +69,14 @@ Prüfungsbedingungen
   - muss bestanden werden
   - Beachte: Sie haben nur 2 Versuche!
 - Zulassungsbedingung
- - 6 der 7 Praktika (Versuche) erfolgreich bearbeitet
+  - 6 der 7 Praktika (Versuche) erfolgreich bearbeitet
 - Inhalt
- - Theorie, Übungen, Praktikum, Selbststudium
- - W=Wissensfragen, V=Verständnisfragen, U=Umsetzungsfragen, Evtl. einige Aufgaben direkt am Computer
+  - Theorie, Übungen, Praktikum, Selbststudium
+  - W=Wissensfragen, V=Verständnisfragen, U=Umsetzungsfragen, Evtl. einige Aufgaben direkt am Computer
 - Prüfungsdurchführung
- - 1.5h Teil 1, 30min Pause, 1.5h Teil 2
- - Ohne Unterlagen, ohne elektronische Hilfsmittel (Taschenrechner, Smartphone, …)
- - Termin Mitte Januar
+  - 1.5h Teil 1, 30min Pause, 1.5h Teil 2
+  - Ohne Unterlagen, ohne elektronische Hilfsmittel (Taschenrechner, Smartphone, …)
+  - Termin Mitte Januar
 - Empfehlung: Die aktuellste Beispielprüfung bereits während dem Semester parallel zur Vorlesung lösen
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/Vorlesungsunterlagen/0-Moduleinfuehrung.pdf)
@@ -86,7 +86,7 @@ Prüfungsbedingungen
 - Schriftliche Prüfung während der Prüfungssession, 180 Minuten
 - Zulassungsbedingungen: Testat (siehe oben)
 - Erlaubte Hilfsmittel während der Prüfung
- - Ein A4 Blatt (doppelseitig beschrieben oder bedruckt)
+  - Ein A4 Blatt (doppelseitig beschrieben oder bedruckt)
 - Kein Quicksort, GC, Reflection
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/Allgemeine_Informationen_OO.pdf)
@@ -96,17 +96,17 @@ Prüfungsbedingungen
 Inhalt
 
 - Grundlagen
- - Logikaufgabe mit anwenden der Rechenregeln
- - Mengenlehre
- - Vollständige Induktion
+  - Logikaufgabe mit anwenden der Rechenregeln
+  - Mengenlehre
+  - Vollständige Induktion
 - Modulo-Rechnen
- - RSA (vereinfacht, da sonst zu schwierig => man muss wissen wie es funktioniert)
- - Alles berechnen können
+  - RSA (vereinfacht, da sonst zu schwierig => man muss wissen wie es funktioniert)
+  - Alles berechnen können
 - Lineare Algebra
- - Lineares Gleichungssystem
- - Normalenform
- - Abbildungen
- - Inverse und Determinante
+  - Lineares Gleichungssystem
+  - Normalenform
+  - Abbildungen
+  - Inverse und Determinante
 
 Ramenbedingungen:
 
@@ -137,8 +137,8 @@ Rinkel:
 
 - Ein Teil komplett _ohne Unterlagen_ (Ankreuztest)
 - Ein Teil _mit allen Unterlagen + Taschenrechner_
- - Formelsammlung
- - Folien mit Ergänzungen
+  - Formelsammlung
+  - Folien mit Ergänzungen
 
 src: Lektion
 
@@ -147,12 +147,12 @@ src: Lektion
 - __Hilfsmittel__: Ein A4-Blatt, doppelseitig bedruckt
 - Abgesetzte Schriftliche Prüfung à 120 min.
 - Prüfungs-Unterlagen:
- - Ein A4-Blatt Zusammenfassung, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
+  - Ein A4-Blatt Zusammenfassung, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
 - Prüfungsstoff-Umfang und -Stil:
- - Gesamter Vorlesungsinhalt inklusive Übungen
- - Konzeptverständnis
- - SQL
- - Programmieraufgaben JDBC (Java)
+  - Gesamter Vorlesungsinhalt inklusive Übungen
+  - Konzeptverständnis
+  - SQL
+  - Programmieraufgaben JDBC (Java)
 - Prüfungsvorbereitung: Moodle beachten!
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Datenbanksysteme_1/Dbs1/Vorlesung/00_Organisatorisches/Dbs1_Organisation.pdf)
