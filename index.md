@@ -19,12 +19,12 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 
 ## Betriebssysteme (Do. 19. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=690)
 
-### Prüfungsinhalte
+Prüfungsinhalte
 
 - Inhalte sämtlicher Vorlesungsfolien (siehe Moodle-Kurs "Betriebssysteme-1")
 - Inhalte sämtlicher Übungen (siehe Moodle-Kurs "Betriebssysteme-1")
 
-#### Inhaltsübersicht anhand Lehrbuch E. Glatz, Betriebssysteme, 3. Auflage
+Inhaltsübersicht anhand Lehrbuch E. Glatz, Betriebssysteme, 3. Auflage
 
 - Einführung
  - _Kap. 1.1 - 1.4: S. 1 - 9_
@@ -44,7 +44,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 - Kommunikation von Prozessen & Threads
  - _Kap. 6.1 – 6.2.2: S. 251 - 267_
 
-### Prüfungsbedingungen
+Prüfungsbedingungen
 
 - Prüfungsdauer: 120 Min
 - Erlaubte Hilfsmittel:
@@ -59,7 +59,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 
 [src](https://moodle.hsr.ch/pluginfile.php/44765/mod_resource/content/6/PruefungsInfo_Bsys1_HS16.pdf)
 
-## Computernetze (Sa. 21. Januar) [(Moodle)](https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/)
+## Computernetze (Sa. 21. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/)
 
 - Achtung: cn1 ist ein «b-Modul»
  - muss bestanden werden
@@ -120,7 +120,7 @@ Hilfsmittel:
 - Buch
 - KEIN TASCHENRECHNER
 
-## Informations- und Codierungstheorie (Di. 31. Januar)
+## Informations- und Codierungstheorie (Di. 31. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Informations-_und_Codierungstheorie/ICTh/)
 
 Unterteilt in Steffen und Rinkel:
 
@@ -131,8 +131,8 @@ Steffen:
 
 Rinkel:
 
-- Ein Teil komplett ohne Unterlagen (Ankreuztest)
-- Ein Teil mit allen Unterlagen + Taschenrechner
+- Ein Teil komplett _ohne Unterlagen_ (Ankreuztest)
+- Ein Teil _mit allen Unterlagen + Taschenrechner_
  - Formelsammlung
  - Folien mit Ergänzungen
 
@@ -140,10 +140,7 @@ src: Lektion
 
 ## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
 
-- Hilfsmittel: Ein A4-Blatt, doppelseitig bedruckt
-
-### Prüfungsbedingungen
-
+- __Hilfsmittel__: Ein A4-Blatt, doppelseitig bedruckt
 - Abgesetzte Schriftliche Prüfung à 120 min.
 - Prüfungs-Unterlagen:
  - Ein A4-Blatt Zusammenfassung, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
