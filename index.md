@@ -1,3 +1,7 @@
+---
+title: HSR tests overview
+---
+
 ## Analysis (Di. 17. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=406)
 
 ### Prüfungsstoff
