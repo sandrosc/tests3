@@ -6,11 +6,9 @@ title: HSR tests overview
 
 ## Analysis (Di. 17. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=406)
 
-### Prüfungsstoff
+Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit einem Stern (\*) gekennzeichneten Kapitel.
 
-Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit einem Stern (*) gekennzeichneten Kapitel.
-
-### Prüfungsablauf
+Prüfungsablauf
 
 - Bitte warten Sie vor dem Prüfungsraum, bis Sie hereingebeten werden und setzen Sie sich an eines der Pulte, auf denen ein Aufgabenblatt bereit liegt.
 - Die Prüfung dauert 120 Minuten.
