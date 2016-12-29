@@ -17,7 +17,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 - Das Papier und das Schreibwerkzeug für die Lösungen ist selber mitzubringen. Es darf mit einem beliebigen Schreibwerkzeug geschrieben werden mit Ausnahme von Rotstifft (Korrekturfarbe).
 - Bringen Sie Ihre Legi-Karte mit und legen Sie diese auf das Pult. Im Übrigen dürfen auf dem Pult neben den Aufgaben- und Lösungsblättern nur die Schreibutensilien und eine Uhr liegen.
 
-(_https://moodle.hsr.ch/mod/page/view.php?id=11893_)
+_ (https://moodle.hsr.ch/mod/page/view.php?id=11893)_
 
 ## Betriebssysteme (Do. 19. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=690)
 
