@@ -66,8 +66,8 @@ Prüfungsbedingungen
 ## Computernetze (Sa. 21. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Computernetze_1/CN1/)
 
 - Achtung: cn1 ist ein «b-Modul»
--- muss bestanden werden
--- Beachte: Sie haben nur 2 Versuche!
+  - muss bestanden werden
+  - Beachte: Sie haben nur 2 Versuche!
 - Zulassungsbedingung
  - 6 der 7 Praktika (Versuche) erfolgreich bearbeitet
 - Inhalt
