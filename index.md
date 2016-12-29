@@ -65,7 +65,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 ## Objektorientertes Programmieren (Di 24. Januar)
 ## Diskrete Mathematik (Fr. 27. Januar)
 ## Informations- und Codierungstheorie (Di. 31. Januar)
-## Datenbanksysteme (Do. 2. Februar)
+## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
 
 ### Prüfungsbedingungen
 
