@@ -136,9 +136,10 @@ Steffen:
 Rinkel:
 
 - Ein Teil komplett _ohne Unterlagen_ (Ankreuztest)
-- Ein Teil _mit allen Unterlagen + Taschenrechner_
-  - Formelsammlung
+- Ein Teil _mit allen Unterlagen + Taschenrechner_ (keine alten Prüfungen, komplett durchgelöste Übungen, Bücher)
+  - Formelsammlung (mit Beispielen zu Teilaufgaben
   - Folien mit Ergänzungen
+  - Skript
 
 src: Lektion
 
