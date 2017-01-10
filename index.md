@@ -145,15 +145,19 @@ src: Lektion
 
 ## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
 
-- __Hilfsmittel__: Ein A4-Blatt, doppelseitig bedruckt
 - Abgesetzte Schriftliche Prüfung à 120 min.
 - Prüfungs-Unterlagen:
-  - Ein A4-Blatt Zusammenfassung, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
+  - __Ein A4-Blatt Zusammenfassung__, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
 - Prüfungsstoff-Umfang und -Stil:
+  - Konzept-, Transfer- und Wissensfragen
+  - SQL-Queries _(macht viel der Prüfung aus)_
+  - Programmieraufgaben JDBC (Java)
   - Gesamter Vorlesungsinhalt inklusive Übungen
   - Konzeptverständnis
-  - SQL
-  - Programmieraufgaben JDBC (Java)
+  - Klassendiagramm entwerfen
+- Folien, welche nicht Prüfungsstoff sind, sind im Moodle markiert
 - Prüfungsvorbereitung: Moodle beachten!
+- Mindestens eine Aufgabe mit folgendem Model: http://wiki.hsr.ch/Datenbanken/BibliothekDBDomainModel
+  - Beachten: Mehrere zu mehrere Beziehung zwischen Kunde - Ausleihe, Kunde - Rückgabe
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Datenbanksysteme_1/Dbs1/Vorlesung/00_Organisatorisches/Dbs1_Organisation.pdf)
