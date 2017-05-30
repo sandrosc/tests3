@@ -4,7 +4,7 @@ title: HSR tests overview
 
 ![Test plan](./tests.png)
 
-## Algorithmen und Datenstrukturen (Mo 14. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/)
+## Algorithmen und Datenstrukturen (Mo. 14. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/)
 
 - Beratung: Di. 8. August 08:10-09:50 Uhr @ 3.008
 - Fragen zur Prüfung können per EMail bis drei Tage vor der Prüfung gestellt werden
@@ -13,81 +13,21 @@ title: HSR tests overview
 
 [src](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/5_Pruefung/1_InformationenZurPruefung_v1.0.pdf)
 
-## Diskrete Mathematik (Fr. 27. Januar) [(Skripte)](https://skripte.hsr.ch/Mathematik_Naturwissenschaften/Diskrete_Mathematik_fuer_Informatik_/DMI/)
-
-Inhalt
-
-- Grundlagen
-  - Logikaufgabe mit anwenden der Rechenregeln
-  - Mengenlehre
-  - Vollständige Induktion
-- Modulo-Rechnen
-  - RSA (vereinfacht, da sonst zu schwierig => man muss wissen wie es funktioniert)
-  - Alles berechnen können
-- Lineare Algebra
-  - Lineares Gleichungssystem
-  - Normalenform
-  - Abbildungen
-  - Inverse und Determinante
-
-Ramenbedingungen:
-
-- 2h
-- c.a. 15 minuten pro Aufgabe an je 15 Punkten => 1 Punkt pro Minute
-- 120 Punkte für eine 6.0
-- 9 Aufgaben => Max. Punktzahl ist 135 => eine Aufgabe muss nicht gelöst werden für eine 6.0
-- 66 Punkte für eine 4
-
-Hilfsmittel:
-
-- Skript mit Notizen
-- Keine eigene Formelsammlung
-- Man bekommt eine Formelsammlung (Server Theoriekapitel)
-- Buch
-- KEIN TASCHENRECHNER
-
-## Informations- und Codierungstheorie (Di. 31. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Informations-_und_Codierungstheorie/ICTh/)
-
-Unterteilt in Steffen und Rinkel:
-
-Steffen:
-
-- Alle Unterlagen ausser alte Tests
-- Teil mobilequiz-ähnlich, Teil unterrichtsbezogen
-
-Rinkel:
-
-- Ein Teil komplett _ohne Unterlagen_ (Ankreuztest)
-- Ein Teil _mit allen Unterlagen + Taschenrechner_ (keine alten Prüfungen, komplett durchgelöste Übungen, Bücher)
-  - Formelsammlung (mit Beispielen zu Teilaufgaben
-  - Folien mit Ergänzungen
-  - Skript
-
-src: Lektion
-
-## Datenbanksysteme (Do. 2. Februar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=590)
-
-- Abgesetzte Schriftliche Prüfung à 120 min.
-- Prüfungs-Unterlagen:
-  - __Ein A4-Blatt Zusammenfassung__, doppelseitig bedruckt; ohne spezielle Hilfsmittel lesbar
-- Prüfungsstoff-Umfang und -Stil:
-  - Konzept-, Transfer- und Wissensfragen
-  - SQL-Queries _(macht viel der Prüfung aus)_
-  - Programmieraufgaben JDBC (Java)
-  - Gesamter Vorlesungsinhalt inklusive Übungen
-  - Konzeptverständnis
-  - Klassendiagramm entwerfen
-- Folien, welche nicht Prüfungsstoff sind, sind im Moodle markiert
-- Prüfungsvorbereitung: Moodle beachten!
-- Mindestens eine Aufgabe mit folgendem Model: http://wiki.hsr.ch/Datenbanken/BibliothekDBDomainModel
-  - Beachten: Mehrere zu mehrere Beziehung zwischen Kunde - Ausleihe, Kunde - Rückgabe
-
-[src](https://skripte.hsr.ch/Informatik/Fachbereich/Datenbanksysteme_1/Dbs1/Vorlesung/00_Organisatorisches/Dbs1_Organisation.pdf)
+## Informationssicherheit 1 (Mi. 16. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Informationssicherheit_1_-_Grundlagen/InfSi1/)
 
 
-_Done:_
 
-## Analysis (Di. 17. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=406)
+## Betriebssysteme 2 (Fr. 18. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=913)
+
+
+
+## Experimentieren und Evaluieren (Di. 22. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Experimentieren_und_Evaluieren_fuer_Informatik/ExEv/)
+
+[src](google.com)
+
+## Analysis 2 (Do. 24. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=455)
+
+TODO:
 
 Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit einem Stern (\*) gekennzeichneten Kapitel.
 
