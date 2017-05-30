@@ -4,15 +4,14 @@ title: HSR tests overview
 
 ![Test plan](./tests.png)
 
-## Objektorientertes Programmieren (Di 24. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/)
+## Algorithmen und Datenstrukturen (Mo 14. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/)
 
-- Schriftliche Prüfung während der Prüfungssession, 180 Minuten
-- Zulassungsbedingungen: Testat (siehe oben)
-- Erlaubte Hilfsmittel während der Prüfung
-  - Ein A4 Blatt (doppelseitig beschrieben oder bedruckt)
-- Kein Quicksort, GC, Reflection
+- Beratung: Di. 8. August 08:10-09:50 Uhr @ 3.008
+- Fragen zur Prüfung können per EMail bis drei Tage vor der Prüfung gestellt werden
+- Es dürfen beliebige Papierunterlagen verwendet werden
+- Keine elektronischen Hilfsmittel
 
-[src](https://skripte.hsr.ch/Informatik/Fachbereich/Objektorientierte_Programmierung/OO/Allgemeine_Informationen_OO.pdf)
+[src](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/5_Pruefung/1_InformationenZurPruefung_v1.0.pdf)
 
 ## Diskrete Mathematik (Fr. 27. Januar) [(Skripte)](https://skripte.hsr.ch/Mathematik_Naturwissenschaften/Diskrete_Mathematik_fuer_Informatik_/DMI/)
 
