@@ -15,7 +15,24 @@ title: HSR tests overview
 
 ## Informationssicherheit 1 (Mi. 16. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Informationssicherheit_1_-_Grundlagen/InfSi1/)
 
-
+- (Teil der) Prüfung ohne Rechner, ohne Unterlagen, Formeln werden angegeben, vgl. alte Prüfungen
+- Gesamter Stoff (Vorlesung, Übungen, Selbststudium)
+  - 11/15 Heinzmann, 4/15 Steffen
+- Selbststudium
+  - Wannacry - PDF Malware, Makroviren (zwei Heise Berichte, 4+6 Seiten)
+- Praxisteil
+  - Notebook mitnehmen
+  - Web-Anwendungen, Wireshark, Cryptool (Mac mit VM mit Windows), OpenSSL (Übung zu OpenSSL durcharbeiten)
+  - Lernkontrolle Account (mobilequiz) muss bereit sein
+  - Persönliches Zertifikat zu S/MIME für Mail Signatur/Verschlüsselung
+- Lernhilfe:
+  - Skript mit Notizen und Videos
+  - Übungen durcharbeiten
+  - Lernkontrollen zur Repetition Wissensfragen durcharbeiten
+  - Beispielprüfung der beiden Vorjahre lösen
+- Fragen
+  - Community InfSi1 auf Google+
+  - Per Mail an verantwortlichen Dozenten
 
 ## Betriebssysteme 2 (Fr. 18. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=913)
 
