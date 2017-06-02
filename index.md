@@ -36,8 +36,13 @@ title: HSR tests overview
 
 ## Betriebssysteme 2 (Fr. 18. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=913)
 
+- Alle Vorlesungsfolien sind prüfungsrelevanter Stoff
+- Hilfsmittel:
+  - **eigens** geschriebene Zusammenfassung
+  - Maximal 4 A4-Seiten normal bedruckt (Richtwert: Arial 10)
+  - Muss auch mit abgegeben werden
 
-[src]()
+[src](https://moodle.hsr.ch/mod/resource/view.php?id=34894)
 
 ## Experimentieren und Evaluieren (Di. 22. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Experimentieren_und_Evaluieren_fuer_Informatik/ExEv/)
 
@@ -57,6 +62,10 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
   - Aufgabe 7 kommt nicht mehr vor
 
 [src](https://moodle.hsr.ch/mod/page/view.php?id=11893)
+
+## English: Where Tech Meets BEC (Mo. 28. August) [(Skripte)](https://skripte.hsr.ch/Kommunikation_Wirtschaft_Recht/English_Where_Tech_Meets_BEC/TecBEC/)
+
+
 
 ## Web Engineering und Design (Mi. 30. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=913)
 
