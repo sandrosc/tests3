@@ -67,7 +67,7 @@ Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit
 
 
 
-## Web Engineering und Design (Mi. 30. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=913)
+## Web Engineering und Design (Mi. 30. August) [(Moodle)](https://skripte.hsr.ch/Informatik/Fachbereich/Web_Engineering_+_Design_1/WED1/)
 
 
 
