@@ -46,7 +46,13 @@ title: HSR tests overview
 
 ## Experimentieren und Evaluieren (Di. 22. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Experimentieren_und_Evaluieren_fuer_Informatik/ExEv/)
 
-[src](google.com)
+- Teil mit und Teil ohne Unterlagen
+- Mit Taschenrechner
+- Formelsammlung
+  - kann "angereichert" werden
+  - maximal ein Anwendungsbeispiel pro Formel
+
+src: Fragestunde
 
 ## Analysis 2 (Do. 24. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=455)
 
