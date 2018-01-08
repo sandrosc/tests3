@@ -4,88 +4,27 @@ title: HSR tests overview
 
 ![Test plan](./tests.png)
 
-## Algorithmen und Datenstrukturen (Mo. 14. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/)
+## Software Engineering (Mo. 15. Januar) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=1076)
 
-- Beratung: Di. 8. August 08:10-09:50 Uhr @ 3.008
-- Fragen zur Prüfung können per EMail bis drei Tage vor der Prüfung gestellt werden
-- Es dürfen beliebige Papierunterlagen verwendet werden
-- Keine elektronischen Hilfsmittel
+## Algorithmen und Datenstrukturen 2 (Mi. 17. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_2/AD2/)
 
-[src](https://skripte.hsr.ch/Informatik/Fachbereich/Algorithmen_und_Datenstrukturen_1/AD1/5_Pruefung/1_InformationenZurPruefung_v1.0.pdf)
+## Recht (Do. 18. Januar) (infos in Emails)
 
-## Informationssicherheit 1 (Mi. 16. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Informationssicherheit_1_-_Grundlagen/InfSi1/)
+## DotNet Technologien [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/DotNet_Technologien/MsTe/)
 
-- (Teil der) Prüfung ohne Rechner, ohne Unterlagen, Formeln werden angegeben, vgl. alte Prüfungen
-- Gesamter Stoff (Vorlesung, Übungen, Selbststudium)
-  - 11/15 Heinzmann, 4/15 Steffen
-- Selbststudium
-  - Wannacry - PDF Malware, Makroviren (zwei Heise Berichte, 4+6 Seiten)
-- Praxisteil
-  - Notebook mitnehmen
-  - Web-Anwendungen, Wireshark, Cryptool (Mac mit VM mit Windows), OpenSSL (Übung zu OpenSSL durcharbeiten)
-  - Lernkontrolle Account (mobilequiz) muss bereit sein
-  - Persönliches Zertifikat zu S/MIME für Mail Signatur/Verschlüsselung
-- Lernhilfe:
-  - Skript mit Notizen und Videos
-  - Übungen durcharbeiten
-  - Lernkontrollen zur Repetition Wissensfragen durcharbeiten
-  - Beispielprüfung der beiden Vorjahre lösen
-- Fragen
-  - Community InfSi1 auf Google+
-  - Per Mail an verantwortlichen Dozenten
+## English: How Things Work (Mo. 22. Januar) [(Skripte)](https://skripte.hsr.ch/Kommunikation_Wirtschaft_Recht/English_How_Things_work/EnglHTw/)
 
-## Betriebssysteme 2 (Fr. 18. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=913)
+## Mobile and GUI Engineering (Mi. 24. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Mobile_and_GUI_Engineering/MGE/)
 
-- Alle Vorlesungsfolien sind prüfungsrelevanter Stoff
-- Hilfsmittel:
-  - **eigens** geschriebene Zusammenfassung
-  - Maximal 4 A4-Seiten normal bedruckt (Richtwert: Arial 10)
-  - Muss auch mit abgegeben werden
+* 10-seitige Zusammenfassung pro Teil (Android und WPF)
 
-[src](https://moodle.hsr.ch/mod/resource/view.php?id=34894)
+[src](https://skripte.hsr.ch/Informatik/Fachbereich/Mobile_and_GUI_Engineering/MGE/Informationen%20zur%20Pr%c3%bcfung.pdf)
 
-## Experimentieren und Evaluieren (Di. 22. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Experimentieren_und_Evaluieren_fuer_Informatik/ExEv/)
+## C Plus Plus (Mo. 29. Januar) [(Website)](https://wiki.ifs.hsr.ch/CPlusPlus/wiki.cgi?CPlusPlus)
 
-- Teil mit und Teil ohne Unterlagen
-- Mit Taschenrechner
-- Formelsammlung
-  - kann "angereichert" werden
-  - maximal ein Anwendungsbeispiel pro Formel
+## Web Engineering und Design 2 (Mi. 31. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Web_Engineering_+_Design_1/WED1/)
 
-src: Fragestunde
-
-## Analysis 2 (Do. 24. August) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=455)
-
-Der Prüfungsstoff umfasst das gesamte Skript ohne die im Inhaltsverzeichnis mit einem Stern (\*) gekennzeichneten Kapitel.
-
-- Beratungswoche: Doppellektionen
-- Dauer: 120min
-- Formelsammlung liegt der Prüfung bei
-- [Probeprüfung](https://moodle.hsr.ch/mod/resource/view.php?id=15206) 170min
-  - [Formelsammlung](https://moodle.hsr.ch/mod/resource/view.php?id=34151)
-- Vergleich alte Prüfungen
-  - Integrieren ist intensiver behandelt worden
-  - Aufgabe 7 kommt nicht mehr vor
-
-[src](https://moodle.hsr.ch/mod/page/view.php?id=11893)
-
-## English: Where Tech Meets BEC (Mo. 28. August) [(Skripte)](https://skripte.hsr.ch/Kommunikation_Wirtschaft_Recht/English_Where_Tech_Meets_BEC/TecBEC/)
-
-
-
-## Web Engineering und Design (Mi. 30. August) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Web_Engineering_+_Design_1/WED1/)
-
-
-
-## Automaten und Sprachen (Fr. 1. September) [(Moodle)](https://moodle.hsr.ch/course/view.php?id=106)
-
-- Stoff:
-  - Vorlesungen
-  - Behandelte Teile des Skripts
-    - inkl. Probleme des Karp'schen Katalogs
-- Dauer 120min
-- Lösungsweg muss dabei sein
-- Zusammenfassung: maximal 1m^2 (16 Seiten A4)
-- Mit Taschenrechner (auch komplexe Taschenrechner sind erlaubt)
-
-[src](https://moodle.hsr.ch/mod/resource/view.php?id=5119)
+* Grid
+* OO
+* Typescript
+* Testat
