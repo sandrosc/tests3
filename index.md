@@ -42,9 +42,14 @@ title: HSR tests overview
 
 ## C Plus Plus (Mo. 29. Januar) [(Website)](https://wiki.ifs.hsr.ch/CPlusPlus/wiki.cgi?CPlusPlus)
 
-## Web Engineering und Design 2 (Mi. 31. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Web_Engineering_+_Design_1/WED1/)
+## Web Engineering und Design 2 (Mi. 31. Januar) [(Skripte)](https://skripte.hsr.ch/Informatik/Fachbereich/Web_Engineering_+_Design_2/WED2/)
 
+* Erlaubte Zusammenfassung:
+  * Muss mit Prüfung abgegeben werden
+  * 1 Seite A4 Zusammenfassung doppelseitig
 * Grid
 * OO
 * Typescript
 * Testat
+
+[src](https://skripte.hsr.ch/Informatik/Fachbereich/Web_Engineering_+_Design_2/WED2/01-Vorlesung/WED2-HS17-Ad01-IntroNeu.pdf)
